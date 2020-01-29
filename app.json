@@ -2,9 +2,6 @@
   "name": "childcare",
   "displayName": "app for children",
   "expo": {
-    "androidStatusBar": {
-      "backgroundColor": "#000000"
-    },
     "name": "childcare",
     "slug": "expo-template-bare",
     "privacy": "unlisted",
